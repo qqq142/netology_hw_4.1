@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
         std::cout << "Введите целое число или число '0', чтобы закончить:" << std::endl;
         std::cin >> num;
     }
-    std::cout << "Ñóììà: " << counter;
+    std::cout << "Сумма: " << counter;
 
 
     return 0;
